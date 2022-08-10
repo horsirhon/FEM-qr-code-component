@@ -45,6 +45,7 @@ body{
     position: absolute;
     bottom: 10px;
     color: hsl(220, 15%, 55%);
+    text-align: center;
 }
 #attribution a {
     color: hsl(217, 19%, 52%);
